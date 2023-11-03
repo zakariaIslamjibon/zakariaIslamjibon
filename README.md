@@ -7,12 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tgzakariaislam" target="blank"><img src="https://img.shields.io/twitter/follow/tgzakariaislam?logo=twitter&style=for-the-badge" alt="tgzakariaislam" /></a> </p>
 
-- 🔭 I’m currently working on **Fiver**
 
 - 📫 How to reach me **zakariaislamjibon@gmail.com**
 
-<h1 align="center">Hi 👋, I'm zakaria Islam jibon</h1>
-<h3 align="center">A passionate frontend developer from BANGLADESH</h3>
+
+<h2 align="center">A passionate frontend developer from BANGLADESH</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaislamjibon&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaislamjibon" /> </p>
 
