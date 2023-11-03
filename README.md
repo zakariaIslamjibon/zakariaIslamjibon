@@ -1,4 +1,4 @@
-![logo](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gifhttps://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
+![logo](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
 <h1 align="center">Hi 👋, I'm zakaria Islam Jibon</h1>
 <h3 align="center">A passionate Softwer developer...</h3>
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="[https://instagram/tgzakariaislam](https://www.instagram.com/zakariaislamjibon.dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tgzakariaislam" height="30" width="40" /></a>
 <a href="https://twitter.com/tgzakariaislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tgzakariaislam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakariaislamjibon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariaislamjibon" height="30" width="40" /></a>
 <a href="https://fb.com/zakariaislamjibon.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakariaislamjibon.2" height="30" width="40" /></a>
